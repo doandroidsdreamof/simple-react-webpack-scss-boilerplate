@@ -1,0 +1,9 @@
+assets/
+authentication/
+components/
+context
+data/
+hooks/
+layouts/
+pages/
+utils/
