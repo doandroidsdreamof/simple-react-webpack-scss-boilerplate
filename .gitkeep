@@ -1,9 +1,9 @@
-assets/
-authentication/
-components/
+assets
+authentication
+components
 context
-data/
-hooks/
-layouts/
-pages/
-utils/
+data
+hooks
+layouts
+pages
+utils
